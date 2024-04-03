@@ -5,8 +5,7 @@
   "author": "opensearch-project",
   "license": "Apache-2.0",
   "scripts": {
-     "preinstall": "echo aws-bugbounty-poc.`whoami`",
-    "merge": "ts-node merger/merge.ts"
+     "preinstall": "echo aws-bugbounty-poc.`whoami`"
   },
   "dependencies": {
     "@apidevtools/swagger-parser": "^10.1.0",
