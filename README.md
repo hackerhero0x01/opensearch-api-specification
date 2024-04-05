@@ -1,6 +1,6 @@
 <img src="https://opensearch.org/assets/img/opensearch-logo-themed.svg" height="64px" alt="OpenSearch logo">
 
-## OpenSearch API Specificationnn
+## OpenSearch API Specificationn
 
 - [OpenSearch API Specification](#opensearch-api-specification)
 - [Welcome!](#welcome)
